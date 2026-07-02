@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m a Computer Science student passionate about building real-world applications using the MERN stack and exploring the power of AI-driven solutions.<br>I specialize in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, with a strong focus on creating scalable and user-friendly systems. Alongside this, I actively work with modern AI technologies, including LLM integrations, to build intelligent applications that go beyond traditional web experiences.<br> <br>Some of my notable projects include: <br> 1. <b>NextHire</b>: MERN-based job portal with recruiter job posting, applicant management, and job seeker application workflows. <br> 2. <b>AI Calling Agent</b>: AI-driven voice assistant for reminders, user interaction, and productivity enhancement. <br> 3. <b>AI Resume Builder</b>: Generates ATS-friendly resumes using AI to streamline the resume creation process. <br> <br>I enjoy turning ideas into impactful digital products and continuously learning new technologies to stay ahead in the rapidly evolving tech landscape.<br> <br>Currently, I’m focused on improving my skills in AI systems, backend scalability, and building production-ready applications.
+Computer Science student passionate about building scalable web applications and AI-powered solutions.
+
+Skilled in the MERN stack (MongoDB, Express.js, React.js, and Node.js) with a strong interest in backend development, system design, and modern AI technologies.
+
+I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning to build production-ready software.
+
 
 
 ## 🌐 Socials:
