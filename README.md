@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.
+Hii I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.
 
 I primarily work with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to develop modern, high-performance web applications with clean architecture and intuitive user experiences. I'm also deeply interested in Artificial Intelligence and enjoy integrating Large Language Models (LLMs) into practical applications.
 
