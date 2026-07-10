@@ -1,4 +1,8 @@
-# 💫 About Me: Hii I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.<br><br>I primarily work with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to develop modern, high-performance web applications with clean architecture and intuitive user experiences. I'm also deeply interested in Artificial Intelligence and enjoy integrating Large Language Models (LLMs) into practical applications.<br><br>I believe in writing clean, maintainable code, continuously learning new technologies, and understanding how systems work under the hood. My interests include backend engineering, system design, API development, performance optimization, and AI-powered applications.<br><br>I'm always exploring new ideas, contributing to personal projects, and challenging myself to build software that is scalable, efficient, and production-ready. My goal is to grow into a software engineer who creates impactful products and continuously learns with the ever-evolving tech ecosystem.
+# 💫 About Me: 
+Computer Science student passionate about building scalable web applications and solving real-world problems through technology.
+
+Focused on the MERN stack (MongoDB, Express.js, React.js, and Node.js), with a growing interest in Artificial Intelligence and backend engineering. I enjoy building clean, efficient, and production-ready software while continuously learning new technologies and improving my problem-solving skills.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshusingh123/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu.mern@gmail.com) 
@@ -9,6 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Himanshu158-ai&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshu158-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
