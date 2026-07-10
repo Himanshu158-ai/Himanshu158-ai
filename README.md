@@ -2,7 +2,6 @@
 Hii I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.
 
 I primarily work with the MERN stack (MongoDB, Express.js, React.js, and Node.js) to develop modern, high-performance web applications with clean architecture and intuitive user experiences. I'm also deeply interested in Artificial Intelligence and enjoy integrating Large Language Models (LLMs) into practical applications.
-
 I believe in writing clean, maintainable code, continuously learning new technologies, and understanding how systems work under the hood. My interests include backend engineering, system design, API development, performance optimization, and AI-powered applications.
 
 I'm always exploring new ideas, contributing to personal projects, and challenging myself to build software that is scalable, efficient, and production-ready. My goal is to grow into a software engineer who creates impactful products and continuously learns with the ever-evolving tech ecosystem.
