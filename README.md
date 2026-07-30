@@ -1,7 +1,7 @@
 # 💫 About Me: 
 Computer Science student passionate about building scalable web applications and solving real-world problems through technology.
 
-Focused on the MERN stack (MongoDB, Express.js, React.js, and Node.js), with a growing interest in Artificial Intelligence and backend engineering. I enjoy building clean, efficient, and production-ready software while continuously learning new technologies and improving my problem-solving skills.
+Focused on the MERN stack (MongoDB, Express.js, React.js, and Node.js) with a growing interest in Artificial Intelligence and backend engineering. I enjoy building clean, efficient, and production-ready software while continuously learning new technologies and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
