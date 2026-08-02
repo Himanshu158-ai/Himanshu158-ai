@@ -1,7 +1,7 @@
 # 💫 About Me: 
 Computer Science student passionate about building scalable web applications and solving real-world problems.
 
-Focused on the MERN stack with a growing interest in backend engineering and Artificial Intelligence. I enjoy building clean, production-ready software while continuously learning new technologies and improving my problem-solving skills.
+Focused on the MERN stack with a growing interest in backend engineering and Artificial Intelligence. I enjoy building clean, production-ready applications while continuously learning new technologies and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
