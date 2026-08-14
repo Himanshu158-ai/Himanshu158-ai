@@ -1,8 +1,9 @@
 # 💫 About Me: 
-Computer Science student passionate about building scalable web applications and solving real-world problems.
+Computer Science student passionate about building scalable, production-ready web applications and solving real-world problems through technology.
 
-Focused on the MERN stack with a growing interest in backend engineering and Artificial Intelligence. I enjoy building clean, production-ready applications while continuously learning new technologies and improving my problem-solving skills.
+Focused on the MERN stack with a growing interest in backend engineering, system design, and Artificial Intelligence. I also actively practice Data Structures and Algorithms to strengthen my problem-solving, logical thinking, and coding skills.
 
+I enjoy building practical products, exploring modern technologies, and understanding how applications can be designed for performance, scalability, and reliability. Currently focused on continuously improving my software engineering skills and turning ideas into useful, real-world applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshusingh123/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu.mern@gmail.com) 
