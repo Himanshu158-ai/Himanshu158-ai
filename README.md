@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Computer Science student passionate about building scalable, production-ready web applications and solving real-world problems through technology.
+Computer Science student passionate about building scalable, production-ready web applications and solving real world problems through technology.
 
 Focused on the MERN stack with a growing interest in backend engineering, system design, and Artificial Intelligence. I also actively practice Data Structures and Algorithms to strengthen my problem-solving, logical thinking, and coding skills.
 
