@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Computer Science student and aspiring Software Engineer focused on building scalable, reliable, and production-ready applications
+Computer Science student and aspiring Software Engineer focused on building scalable, reliable, and production-ready applications.
 
 My primary focus is the MERN stack, with a growing interest in backend engineering, system design, cloud technologies, and AI-powered applications. I regularly practice Data Structures and Algorithms to strengthen my problem-solving and computational thinking.
 
